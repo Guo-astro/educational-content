@@ -1,0 +1,41 @@
+2025-02-26 14:54:53,167 - INFO - New entry: Tokyo 2023-07-15
+2025-02-26 14:54:53,167 - INFO - New entry: Tokyo 2023-07-16
+2025-02-26 14:54:53,167 - INFO - New entry: Osaka 2024-01-01
+2025-02-26 14:54:53,167 - INFO - New entry: Osaka 2024-07-17
+2025-02-26 14:54:53,167 - INFO - New entry: Sapporo 2023-12-31
+2025-02-26 14:54:53,167 - INFO - New entry: Sapporo 2024-07-18
+2025-02-26 15:00:45,932 - ERROR - Location 'Tokyo' not found in station code dictionary.
+2025-02-26 15:00:45,932 - ERROR - Location 'Tokyo' not found in station code dictionary.
+2025-02-26 15:00:45,932 - ERROR - Location 'Osaka' not found in station code dictionary.
+2025-02-26 15:00:45,932 - ERROR - Location 'Osaka' not found in station code dictionary.
+2025-02-26 15:00:45,932 - ERROR - Location 'Sapporo' not found in station code dictionary.
+2025-02-26 15:00:45,932 - ERROR - Location 'Sapporo' not found in station code dictionary.
+2025-02-26 15:08:06,217 - INFO - Scraping station codes from JMA site...
+2025-02-26 15:08:06,435 - INFO - Fetched 0 stations from JMA.
+2025-02-26 15:08:06,435 - INFO - No existing cache found. Saving new station codes.
+2025-02-26 15:08:06,435 - ERROR - Location '札幌' not found in station code dictionary.
+2025-02-26 15:08:06,435 - ERROR - Location '札幌' not found in station code dictionary.
+2025-02-26 15:08:06,435 - ERROR - Location '函館' not found in station code dictionary.
+2025-02-26 15:08:06,435 - ERROR - Location '函館' not found in station code dictionary.
+2025-02-26 15:08:26,098 - INFO - Scraping station codes from JMA site...
+2025-02-26 15:09:49,259 - INFO - Scraping station codes from JMA site...
+2025-02-26 15:27:28,846 - INFO - Scraping station codes from JMA site (new structure)...
+2025-02-26 15:27:31,752 - INFO - Scraped 3350 stations total.
+2025-02-26 15:27:31,752 - INFO - No cached station codes found; saving new codes.
+2025-02-26 15:27:32,205 - INFO - New entry: 札幌 2023-07-15
+2025-02-26 15:27:32,205 - INFO - New entry: 札幌 2023-07-16
+2025-02-26 15:27:32,205 - INFO - New entry: 函館 2024-01-01
+2025-02-26 15:27:32,205 - INFO - New entry: 函館 2024-01-02
+2025-02-26 15:27:32,206 - INFO - Done. See weather_data.csv and weather_data_diff.log for details.
+2025-02-26 15:29:27,677 - INFO - Scraping station codes from JMA site (new structure)...
+2025-02-26 15:29:29,820 - INFO - Scraped 3350 stations total.
+2025-02-26 15:29:29,820 - INFO - Station codes differ from cache; updating cache with new codes.
+2025-02-26 15:29:30,005 - INFO - New entry: 名古屋 2023-07-15
+2025-02-26 15:29:30,005 - INFO - New entry: 名古屋 2023-07-16
+2025-02-26 15:29:30,005 - INFO - Done. See weather_data.csv and weather_data_diff.log for details.
+2025-02-26 15:29:42,734 - INFO - Scraping station codes from JMA site (new structure)...
+2025-02-26 15:29:44,379 - INFO - Scraped 3350 stations total.
+2025-02-26 15:29:44,380 - INFO - Station codes differ from cache; updating cache with new codes.
+2025-02-26 15:29:44,458 - INFO - New entry: 名古屋 2023-07-15
+2025-02-26 15:29:44,458 - INFO - New entry: 名古屋 2023-07-16
+2025-02-26 15:29:44,459 - INFO - Done. See weather_data.csv and weather_data_diff.log for details.

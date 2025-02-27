@@ -5,8 +5,11 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "diagrams>=0.24.1",
+    "japanize-matlibplot-modern>=0.1.4",
     "manim>=0.19.0",
     "matplotlib>=3.10.0",
+    "requests>=2.32.3",
     "scikit-learn>=1.6.1",
     "seaborn>=0.13.2",
     "statsmodels>=0.14.4",
